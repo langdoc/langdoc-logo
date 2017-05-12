@@ -10,11 +10,11 @@ The page numbers in filenames refer to the actual pages in PDF files stored in F
 
 View to Kildin Saami text published in Koltan- ja kuolanlappalaisia satuja (Itkonen et. al. 1931, p. 15).
 
-![SUST_60-15.png](SUST_60-15.png)
+![SUST_60-15.png](SUST_60-15-450px.png)
 
 View to Komi-Zyrian text published in Syrjänische Volksdichtung (Wichmann 1916, p. 5).
 
-![SUST_38-16.png](SUST_38-16.png)
+![SUST_38-16.png](SUST_38-16-450px.png)
 
 ## Image resizing
 
