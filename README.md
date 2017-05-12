@@ -26,4 +26,4 @@ Please resize the images with this command, or with other command that gives con
 
     convert "input.jpg" -resize 450x450 -quality 100 "output.png"
 
-The image doesn't need to be a perfect square, only height will be 450 and the aspect ratio is kept.
+The image doesn't need to be a perfect square, only width will be 450 and the aspect ratio is kept.
