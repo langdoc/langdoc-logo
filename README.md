@@ -14,4 +14,4 @@ View to Kildin Saami text published in Koltan- ja kuolanlappalaisia satuja (Itko
 
 View to Komi-Zyrian text published in Syrjänische Volksdichtung (Wichmann 1916, p. 5).
 
-![SUST_38-16.png](SUST_29-16.png)
+![SUST_38-16.png](SUST_38-16.png)
