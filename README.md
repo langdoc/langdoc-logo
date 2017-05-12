@@ -15,3 +15,11 @@ View to Kildin Saami text published in Koltan- ja kuolanlappalaisia satuja (Itko
 View to Komi-Zyrian text published in Syrjänische Volksdichtung (Wichmann 1916, p. 5).
 
 ![SUST_38-16.png](SUST_38-16.png)
+
+## Image resizing
+
+Please resize the images with this command, or with other command that gives consistent size:
+
+    convert "input.jpg" -resize 450x450 -quality 100 "output.png"
+
+The image doesn't need to be a perfect square, only height will be 450 and the aspect ratio is kept.
